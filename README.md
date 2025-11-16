@@ -1,5 +1,8 @@
-## Hi there 👋
-
+# Greetings, my name is Ibuki95. 
+## About me:
+I'm currently learning Java, HTML, CSS, JavaScript and mySQL.
+I would love to learn about video game development, for example C# or C++. 
+So I've got a long road ahead of me to be a professional developer, but I'm sure I will succeed.
 <!--
 **Ibuki95/Ibuki95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
